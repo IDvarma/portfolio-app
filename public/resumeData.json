@@ -1,0 +1,172 @@
+{
+  "main": {
+    "name":"Saloni",
+    "occupation":"Graduate Student from Northeastern University who is passionate and focused data enthusiast. ",
+    "description":"I'm looking for opportunities to apply existing skills in Data Scientist, Data Analyst, Business Analyst and Data Engineer roles.",
+    "image":"Image.jpeg",
+    "bio":"I have worked extensively on Java, SQL, Python, R, Hadoop, AWS and have gained hands-on experience by working on projects in domains like app design, data modeling, data manipulation, data analysis, and visualization using various tools. As a data science intern, I have helped the company make business decisions with the help of statistical measures and prediction models. I have good problem-solving skills, a methodical approach, excellent attention to detail skills and the ability to work to strict deadlines. I am also a good communicator and work well with others to complete goals.",
+    "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I would be glad to set a time to call you for a quick chat to discuss my experiences in more details.",
+    "email": "somaiya88@gmail.com",
+    "phone": "857-204-9049",
+    "address":{
+      "street":"75 Peterborough St",
+      "city":"Boston",
+      "state":"Massachusetts",
+      "zip": "02215"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/10b35AhYhuaxGth3jufCVKwaHx6F8Qm_0/view",
+    "social":[
+      {"name":"facebook",
+        "url":"https://www.facebook.com/saloni.somaiya",
+        "className":"fa fa-facebook"
+        
+
+      },
+      
+     
+      {
+        "name":"google-plus",
+        "url":"mailto:somaiya.s@northeastern.edu",
+        "className":"fa fa-envelope-o"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/saloni-somaiya/",
+        "className":"fa fa-linkedin"
+      },
+     
+      {
+        "name":"github",
+        "url":"https://github.com/saloni2596",
+        "className":"fa fa-github"
+      }
+     
+    ]
+  },
+  "resume":{
+    "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education":[
+      {
+        "school":"Northeastern University",
+        "degree":"Masters in Information Systems",
+        "graduated":"Expected Graduation December 2020",
+        "description":"Coursework: Application Development, Data Science Engineering Methods and Tools, Advanced Database Management System and Design, Business Analysis. Volunteer Work: Data Science Researcher at AI Skunkworks &. Data Analyst at Coronavirus Visualization Team."
+      },
+      {
+        "school":"University of Mumbai",
+        "degree":"Bachelors in Information Technology",
+        "graduated":"May 2018",
+        "description":"Coursework: Distributed Database Systems, Data Warehouse and Business Intelligence, Big Data Analytics. Volunteer Work: Publicity Relations at IEEE."
+      }
+    ],
+    "work":[
+      {
+        "company":"pubGenius.Inc",
+        "title":"Data Science Intern",
+        "years":"January 2020-April 2020",
+        "description":"Tools and technologies used: Python, SQL, Tableau, Google DataStudio, Trifacta, Salesforce Analytics, Google Analytics. Developed algorithmic and predictive solutions to business problems. Developed data visualization for various projects, both internal and external facing insights to communicate with stakeholders. Performed A/B testing on various ads and campaigns to understand the behavior of millions of customers and the quality of traffic generated to help target better. Have kept up to date with the latest advancements in image classification, computer vision, object detection and neural networks "
+      },
+      {
+        "company":"Northeastern University",
+        "title":"Computer Lab Assistant",
+        "years":"July 2019-December 2019",
+        "description":"Tools and technologies used: Linux, Shell scripting, Python, SQL. Provided student support and customer service requiring technical assistance. Answered the questions from students having technical issues with programming languages. Configuring Virtual Machines in labs and troubleshooting the errors related to account handling"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"SQL",
+        "level":"85%"
+      },
+      {
+        "name":"Java",
+        "level":"60%"
+      },
+      {
+        "name":"Hadoop",
+        "level":"50%"
+      },
+      {
+        "name":"R",
+        "level":"55%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Hackerrank",
+        "category":"Coding Skills",
+        "image":"Capture3.PNG",
+        "url":"https://www.hackerrank.com/somaiya88"
+      },
+      {
+        "title":"COVID-19 Analysis",
+        "category":"Tableau Personal Project",
+        "image":"Capture2.PNG",
+        "url":"https://public.tableau.com/profile/saloni.somaiya#!/"
+      },
+     
+      {
+        "title":"Data Science in Advertising",
+        "category":"Medium blog on internship experience ",
+        "image":"programmatic-advertising1.jpg",
+        "url":"https://medium.com/@somaiya88/data-science-in-programmatic-advertising-d434ca40ce92"
+      },
+      {
+        "title":"My Life my Choice",
+        "category":"Personal Blog",
+        "image":"Capture1.PNG",
+        "url":"http://somaiya88.blogspot.com/"
+      }
+    ],
+    "certifications": [
+      {
+        "title":"Data Analytics Fundamentals",
+        "category":"by AWS",
+        "image":"cert4.jpg",
+        "url":"https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=JshtBXpjtUKky2kY0hZzRw2"
+      },
+      {
+        "title":"Certified Data Scientist",
+        "category":"by Tableau",
+        "image":"cert2.PNG",
+        "url":"https://www.youracclaim.com/badges/20d10d27-dfaa-451c-80dd-d5669c867008/linked_i"
+      },
+      {
+        "title":"Advanced Google Analytics",
+        "category":"by Google",
+        "image":"cert3.jpg",
+        "url":"https://analytics.google.com/analytics/academy/certificate/AIgGbaauRkmdnMVBeqVOaw"
+      },
+      {
+        "title":"SAS Programming 1",
+        "category":"by SAS",
+        "image":"cert6.PNG",
+        "url":"https://www.youracclaim.com/badges/a28ceb61-66d5-45d5-b517-bd566c6386ca/linked_in_profile"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Saloni is wonderful to work with, highly motivated and hard working. She had no problem working on projects quickly with abstract & ever-changing requirements. During any downtime she had while waiting for feedback, she would take initiative to do more research and look for new ideas that could help the projects that the company was working on. She can soak up a lot of information and enjoys working on a team; I'm sure she will be an exceptional contributor on her future teams.",
+        "user":"Kevin Stubbs (CTO pubGenius.Inc)"
+      }
+      
+    ]
+  }
+}
